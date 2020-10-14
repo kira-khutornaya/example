@@ -1,0 +1,70 @@
+body {
+	background-color: #fbfcfd;
+}	
+
+.container {
+}
+
+.header-container {
+	padding-top: 35px;
+	padding-bottom: 30px;
+}
+
+.lemon-logo {
+	margin-right: 35px;
+}
+
+.button {
+	border: none;
+}
+
+.menu-button {
+	display: block;
+	width: 21px;
+	height: 14px;
+	background-image: url("../images/burger_5870.png");
+	background-repeat: no-repeat;
+	background-color: inherit;
+	position: absolute;
+	right: 0;
+	top: 45px;
+}
+
+.menu-button-text {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	clip: rect(1px 1px 1px 1px);
+}
+
+.menu-list {
+	display: none;
+}
+
+.search {
+	width: 110px;
+}
+
+.posts {
+	
+}
+.section-headline {}
+.post-group {
+	border-top: 2px solid #55555520;
+	border-bottom: 2px solid #55555520;
+}
+.post-image {
+	width: 100%;
+}
+.post-preview {}
+.post-preview-headline {}
+.post-preview-headline-link {
+
+}
+.post-preview-meta {
+
+}
+.meta {}
+.time-cooking {}
+.comments {}
+.views {}
